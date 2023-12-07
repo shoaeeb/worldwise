@@ -25,16 +25,40 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Alamedilla",
+      "country": "Spain",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "date": "2023-12-07T06:49:24.130Z",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "37.57941251343841",
+        "lng": "-3.272918232153646"
       },
-      "id": 98443197
+      "id": 98443199
+    },
+    {
+      "cityName": "Amarante",
+      "country": "Portugal",
+      "notes": "",
+      "emoji": "🇵🇹",
+      "date": "2023-12-07T07:39:59.961Z",
+      "position": {
+        "lat": "41.244772343082076",
+        "lng": "-7.926664889996688"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Falces",
+      "country": "Spain",
+      "notes": "",
+      "emoji": "🇪🇸",
+      "date": "2023-12-07T07:41:13.799Z",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "-1.7334566026182376"
+      },
+      "id": 98443201
     }
   ]
 }

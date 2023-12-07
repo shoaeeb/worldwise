@@ -6,8 +6,8 @@ export function useGeolocation(defaultPostion = null) {
   const [position, setPosition] = useState(defaultPostion);
 
   async function getLocation() {
-    setIsLoading(true);
     try {
+      setIsLoading(true);
       navigator.geolocation.getCurrentPosition(
         function successs(position) {
           setPosition({
